@@ -7,10 +7,7 @@
         "Filter",
         "Mongo DB"
     ],
-    "website": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
-    "repository": "https://github.com/PR0FESS0R-99/DonLee_Robot/tree/main",
-    "success_url": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
-    "env": {
+    : {
         "APP_ID": {
             "description": "Your APP ID From my.telegram.org or @MT_MytelegramOrg_Bot",
             "value": ""
